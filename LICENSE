@@ -1,0 +1,221 @@
+Progressive Restrictive Open Source License (PROSL)
+(A license by Andrés Brugarolas Martínez)
+
+Copyright (c) Andrés Brugarolas Martínez (2023)
+All Rights Reserved
+
+YOU ARE FREE TO USE THIS LICENSE IN ANY OF YOUR PROJECTS
+
+Project name: BZDoom (the "Software")
+Author: Andrés Brugarolas Martínez (the "Author")
+Email: brugarolas.92@gmail.com
+Webpage: https://www.andres-brugarolas.com/
+Repository: https://www.github.com/Brugarolas/bruga-super-resolution-rename-scripts/
+
+INTRODUCTION:
+Below is the Progressive Restrictive Open Source License (PROSL), crafted to reflect the values and
+principles of its author, Andrés Brugarolas Martínez, and others who might adhere to it, while establishing
+guidelines for the use, modification, and distribution of the Software under this license.
+
+While not mandatory, the Author would appreciate that any changes, bug fixes or new features would be pulled
+back to the official repository, so more people can benefit from them.
+
+The Author wants to warn you that this License may looks like a mix of both a License and a political manifesto.
+From the Author's point of view: there is no distinction between them, as every interaction between two or more
+sentient human beings is in one way or another always political. Just we have assumed that the usual, normalized
+interactions are non-political, but they are. In fact, trying that your values do not affect your software or
+your business is an ideology itself: a moderate conservative one, or pro-status quo one in the best scenario.
+
+The Author wants to recall you that in some countries, a normalized and alledgedly non-political tradition, is to
+punish, torture or even murder women for not covering their face or their hair. While that seems brutal and non-sensical
+in western countries, the native individuals who oppose that tradition are often perceived as subversive and revolutionary
+by the ones who support or don't actually care about that tradition. And these revolutionary individuals are usually
+harashed by local extremist groups, paramilitary organizations, the armed forces, and/or police agencies.
+
+The Author; a Spanish guy in his early-30s who has been spent an immeasurable ammount of money on lawyers, who has been
+assaulted by police officers multiple times, who has been detained for days in countless occassions, who has been prosecuted several
+times and who might go to jail because of his activism (apparently defending that everybody deserves a place to live is a dangerous
+ideology that society should fight against); strongly believes that the same principle can be applied to... well, universally.
+Just because you don't consider that mixing software licensing with values is a good idea or don't like my progressive values,
+does not make me a "radical" and does not make you neutral: you just happen to have the same values/ideas/ideology than the majority.
+I could write for hours about this subject, but even if you think it is: this is not a political manifesto, it's a License. But values and
+actions are inseparable.
+
+As a final note: I'm not an English native speaker, so expect typos in this License. Even if grammar is an arbitrary
+social construct, I try my best to respect it. And writing a License may be beyond my English capabilities. However,
+typos does not mean in any ocassion that any term of this License is invalid. If I made any mistake, typo, or didn't
+express myself in an understandable way, feel free to contact me.
+
+Oh, and if your company is looking for new people to hire, I'm open to new opportunities. Even if I'm openly left-winged, I'm a good
+professional and a good developer. And remote working and my lack of social skills in English will make it impossible that
+I try to convince your employees to join a workers' union. And the fact that I'm openly left-winged may even play in your favor,
+because the more diverse the team is, the less bias the software will have. Particularly in the AI development. I worked at a b
+
+SUMMARY:
+This license allows individuals and organizations that align with progressive values to freely use, modify,
+and distribute this software. Restrictions are placed on certain entities, particularly those associated
+with military or mercenary activities, and those that don't uphold certain progressive principles.
+
+Redistribution is encouraged under open-source licenses that are compatible with this one.
+
+Compatibility terms are described below.
+
+TERMS:
+Free Use: Permission is hereby granted, free of charge, to any individual, public administration, or
+non-profit organization obtaining a copy of this software and associated documentation files (the "Software"),
+to deal in with the Software without any limitation to the rights to use, modify, and distribute this Software,
+provided they do not violate the restrictions listed below and ensure these restrictions are met.
+
+Any individual, public administration, or non-profit organization that makes use of this Software, redistribute it,
+or modify it, has the obligation to conserve this copyright with the information about the original Author intact
+and has the responsibility of enforcing the terms, limitations and rights this License entails are met.
+
+This Software or any derivative of it may not be sublicensed, merged with any other software with private or
+incompatible license, commodified, be sold, monetized, or be used in any kind of commercial activity; including
+but not limiting to any software-as-a-service like, data-mining or crypto-mining commercial activities; without
+the express consent of the original Author, who might ask for a compensation in return.
+
+The Author is well aware that the last sentence may sound a bit controversial, however, he wants you to know that
+he is a reasonable person and wants to remind you that commercial activities are not prohibited: you just have to ask him
+for consent. The compensations the Author may ask you in return are not necessarily monetary ones, but to collaborate
+together in the development of this Software or other software, free use or your software-as-a-service, promotion of his
+Software in your platforms, granting free access to source code of some of your software, or most likely nothing at all.
+
+This Software, any modification of it or any derivate of it must conserve this original License (PROSL) and not even
+the original Author is entitled to negotiate or make any kind of deal that states the opposite. If any code of this
+Software is included in other software, included files must start with a comment about original Author, his webpage,
+original project repository, small PROSL License statement, and this LICENSE should be included intact into the new
+project's License.
+
+Any kind of deal with the original Author does not mean under any circunstance that this Software may be sold, monetized,
+retristributed or used under a different license; does not mean neither that the other party is exempt of enforcing this
+license, the rights it guarantees to users and the restrictions it imposes to certain entities or activities; nor gives
+it the right to the other party to negotiate about the use, sell, redistribution, monetization, or modification of this
+Software with any third parties without the original Author express consent.
+
+1. Company and Commercial Restrictions:
+Companies with more than 10 employees must notify the original Author about the nature of their usage of this Software.
+
+Companies with over 50 employees require express consent from the original Author for usage, modification and/or redistribution
+of this Software.
+
+Any kind of commercial activity, monetization or commodification of this Software and any derivate of it requires express consent
+from the original Author.
+
+2. Exceptions:
+The following organizations are not considered companies or are exempt of company restrictions:
+
+Worker unions.
+
+Cooperative businesses where at least 80% of ownership is worker-based.
+
+Left wing organizations, civil rights organizations, womens rights organizations, anti-racist organizations, anti-fascist
+organizations, and LGTB rights organizations.
+
+Public administrations or state-owned companies from countries provided they align with progressive values described below.
+
+3. Prohibited Entities:
+Military, paramilitary, criminal organizations, police forces or agencies, mercenary companies or private security companies,
+intelligence agencies, military companies, public or private penitentiary systems, and companies with affiliations to such entities.
+
+Any kind of organization dedicated to drug, human or weapon trafficking, even if they have not been proven to be criminal organizations.
+
+Any entity that promotes hate, discrimination, misinformation or any form of violence against individuals based on race, gender,
+sexual orientation, or any other discriminatory grounds. Except those clearly aligned with anti-repressive or anti-fascist values.
+The Author does not consider that publicly denouncing police brutality or the injustices of different global penal systems constitute
+any kind of discrimination against cops or judges. And about anti-fascist values: the Author wants to quote the "Paradox of tolerance":
+any society that wants to be effectively tolerant, must not tolerate any kind of anti-tolerance behaviour. Fighting against fascism
+should be a major priority for all individuals who believe all humans deserve the same human rights.
+
+Racist, fascist, misogynist, nationalist, anti-communist or right-wing extremist individuals, groups, communities, parties, organizations
+or media, even if they don't explicitly promote hate, discrimination, misinformation or any kind of violence against any individuals.
+
+The Author is aware that the last sentence is a bit vague and open to interpretation, however, if you felt uncomfortable or felt referented
+while reading it, there is a high change that you are part of the list and you should reconsider your values. If you don't like my progressive
+values just don't hire me in your company nor use my software: there are plenty of Open Source "yes-you-can-use-our-software-to-sell-crack-online"
+(as long as you credit them) projects available on the Internet, and probably with a higher quality or more feature-complete than mine.
+
+4. Redistribution:
+Redistribution is allowed under open-source licenses that allow dual-licensing and which do not conflict with the terms of this License.
+
+Redistributors must retain the original license and provide free access to the source code of, at least, this or any piece of this Software is being used.
+
+5. Progressive Values:
+A country must meet the following conditions to be considered aligned with progressive values: free universal education, free universal health system,
+secular governance, free elections under the supervision of independant and international authorities, and equal rights for all individuals irrespective
+of race, gender, or sexual orientation.
+
+However, any country that met the previous conditions but infringe any of the following is not considered to be aligned with progressive values and is
+excluded from the exceptions: countries with references to any religion in their national anthem or flags, or that give special status to any religion,
+or have military forces (excluding UN peacekeepers) deployed outside their borders, or provide military aid to countries at war or to any country that
+is not meeting the aforementioned standards.
+
+The Author is aware that excludes half of the countries that are generally considered progressive, but he wrote that on purpose. The Author does not
+consider militarism, selling weapons, profitting from other's countries wars or aiding dictatorships are progressive values. And about the military:
+the armed forces and all its branches are a necessary evil, which are supposed to be defensive forces for granting their citizen's integrity and rights
+agains external threats, so you may ask yourself how exactly are the armed forces defending your rights in a foreign country. There is a name for that:
+it is imperialism, and it is not a progressive value. If "global stability" or "national security" are really the main concerns of such missions, then
+diplomacy, commerce, humanitary aid, healthcare and educational aid, and UN consensual approved interventions are the answer to the problem.
+
+6. No Warranties:
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of FITNESS FOR A PARTICULAR
+PURPOSE.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF FITNESS FOR A PARTICULAR
+PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+7. Universality:
+This license is meant to be universally applicable, however it was written in a specific european country jurisdiction context by someone whose native
+language is not English, so it is possible that some aspects are not clear enough or that they conflict with any local, state, national or federal laws of
+some other countries. If you have any doubt about its applicability, please, consult a lawyer or contact the original Author to ask him about your doubts,
+or to develop for you a similar software of your ownership and more tailored to your needs.
+
+8. Compatible Licenses:
+A compatible license is one that:
+
+Must allow that the parts of the Software under PROSL license or any derivative of it are allowed to be distributed under the same terms and the same
+original PROSL license or any derivative of it.
+
+Respects and upholds the restrictions placed on certain entities, as outlined in this license.
+
+Does not permit sublicensing under terms that would violate the principles of PROSL.
+
+Ensures that redistributions continue to enforce the guidelines of PROSL, especially concerning prohibited entities and consensual commercial restrictions.
+
+Allows for open-source dual-licensing, ensuring that the software remains freely accessible and modifiable by those who adhere to PROSL's values.
+
+9. Attribution:
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the previous conditions and the conditions below
+are met.
+
+These conditions require a modest attribution to Andrés Brugarolas Martínez (the "Author"), who hopes that its promotional value may help justify the thousands
+of dollars in otherwise billable time invested in writing this and other freely available, open-source software.
+
+Redistributions of source code, in whole or part and with or without modification (the "Code"), must prominently display this GPG-signed text in verifiable form.
+
+Redistributions of the Code in binary form must be accompanied by this GPG-signed text in any documentation and, each time the resulting executable program or a
+program dependent thereon is launched, a prominent display (e.g., splash screen or banner text) of the Author’s attribution information, which includes:
+
+(a) Complete name of the Author/s and/or any pseudonyms they may have included in their Software's license,
+
+(b) Professional identifications if she/he/they have included it in their Software's license, and
+
+(c) URL to her/his/their professional web page, personal web pages, GitHub or GitLab accounts, or any other professional or social media platforms they have
+included in their Software's license.
+
+Neither the name/s nor any trademark of the Author/s may be used to endorse or promote products derived from this Software without specific prior written permission.
+
+OBLIGATIONS FOR THE ORIGINAL AUTHOR:
+1. Contributors' Rights:
+Any contributor to this project through the official GitHub/GitLab/repository project has the right to add their details (username, real name, contact, etc.)
+to a contributors' section.
+
+2. Acknowledgment of Third-Party Code:
+If using third-party code, the original author will acknowledge the source and, if requested by the third-party, either attribute correctly or remove the third-party
+code within a specified timeframe of one month.
+
+3. Safety comes First:
+If you are an individual living in a country where your integrity, your rights and/or your liberty of freedom could be compromised because of the public use of
+this License, feel free to contact the Author to together figure out a solution, like an exception from granting free access to the source code of the Software
+and its License.

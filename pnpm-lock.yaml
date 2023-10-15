@@ -1,0 +1,59 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  reactivefy:
+    specifier: ^1.2.4
+    version: 1.2.4
+
+packages:
+
+  /@babel/runtime-corejs3@7.23.2:
+    resolution: {integrity: sha512-54cIh74Z1rp4oIjsHjqN+WM4fMyCBYe+LpZ9jWm51CZ1fbH3SkAzQD/3XLoNkjbJ7YEmjobLXyvQrFypRHOrXw==}
+    engines: {node: '>=6.9.0'}
+    dependencies:
+      core-js-pure: 3.33.0
+      regenerator-runtime: 0.14.0
+    dev: false
+
+  /array.observe@0.0.1:
+    resolution: {integrity: sha512-EO7Io+L8NQIh076E/3ekIVs/OdSEAoNuU2CEIuXzXyUyAZZBPFj8stS7+pXSpWtIT7WmAcX4MbXOp9jO2TGyBw==}
+    deprecated: Array.observe isn't an ES7 proposal anymore and will be removed from V8 - don't use it for production code
+    dev: false
+
+  /core-js-pure@3.33.0:
+    resolution: {integrity: sha512-FKSIDtJnds/YFIEaZ4HszRX7hkxGpNKM7FC9aJ9WLJbSd3lD4vOltFuVIBLR8asSx9frkTSqL0dw90SKQxgKrg==}
+    requiresBuild: true
+    dev: false
+
+  /nanoid@4.0.2:
+    resolution: {integrity: sha512-7ZtY5KTCNheRGfEFxnedV5zFiORN1+Y1N6zvPTnHQd8ENUvfaDBeuJDZb2bN/oXwXxu3qkTXDzy57W5vAmDTBw==}
+    engines: {node: ^14 || ^16 || >=18}
+    hasBin: true
+    dev: false
+
+  /object.observe@0.2.6:
+    resolution: {integrity: sha512-gQHgUWbp1aiiY4XYyHn6u6NIGX15FzEekNIvKriSWxCs8r9iatwv5gF68depAbiMvPapYOcctsXb6ILQMJASLQ==}
+    deprecated: Object.observe isn't an ES7 proposal anymore and will be removed from V8 - don't use it for production code
+    dev: false
+
+  /proxy-polyfill@0.3.2:
+    resolution: {integrity: sha512-ENKSXOMCewnQTOyqrQXxEjIhzT6dy572mtehiItbDoIUF5Sv5UkmRUc8kowg2MFvr232Uo8rwRpNg3V5kgTKbA==}
+    dev: false
+
+  /reactivefy@1.2.4:
+    resolution: {integrity: sha512-qi0drMHXQM6GcmbTi5Me9XoefrrRQtGmNNSCEIpleg25SJYdDIr8eeWWBfrSTCkNIS/5d8kUSbjjf9y4TzyAsg==}
+    dependencies:
+      '@babel/runtime-corejs3': 7.23.2
+      array.observe: 0.0.1
+      nanoid: 4.0.2
+      object.observe: 0.2.6
+      proxy-polyfill: 0.3.2
+    dev: false
+
+  /regenerator-runtime@0.14.0:
+    resolution: {integrity: sha512-srw17NI0TUWHuGa5CFGGmhfNIeja30WMBfbslPNhf6JrqQlLN5gcrvig1oqPxiVaXb0oW0XRKtH6Nngs5lKCIA==}
+    dev: false

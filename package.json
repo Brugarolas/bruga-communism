@@ -1,0 +1,32 @@
+{
+  "name": "bruga-communism",
+  "version": "1.0.0",
+  "author": "Andrés Brugarolas Martínez",
+  "description": "A Node library for Workers!",
+  "license": "PROSL",
+  "main": "communism.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/bruga-communism"
+  },
+  "keywords": [
+    "superresolution",
+    "rename",
+    "gigapixel",
+    "topaz",
+    "utils",
+    "vance",
+    "vanceai",
+    "topazgigapixel",
+    "image",
+    "images",
+    "png",
+    "pngs"
+  ],
+  "dependencies": {
+    "reactivefy": "^1.2.4"
+  }
+}
